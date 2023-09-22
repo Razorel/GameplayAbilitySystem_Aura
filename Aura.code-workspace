@@ -11,8 +11,7 @@
 	],
 	"settings": {
 		"typescript.tsc.autoDetect": "off",
-		"npm.autoDetect": "off",
-		"dotnet.defaultSolution": "disable"
+		"npm.autoDetect": "off"
 	},
 	"extensions": {
 		"recommendations": [
@@ -463,7 +462,7 @@
 			{
 				"name": "Launch Aura (Debug)",
 				"request": "launch",
-				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+				"program": "C:\\Users\\razor\\Unreal\\GameplayAbilitySystem_Aura\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 				"preLaunchTask": "Aura Win64 Debug Build",
 				"args": [
 				],
@@ -479,7 +478,7 @@
 			{
 				"name": "Launch Aura (DebugGame)",
 				"request": "launch",
-				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+				"program": "C:\\Users\\razor\\Unreal\\GameplayAbilitySystem_Aura\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 				"preLaunchTask": "Aura Win64 DebugGame Build",
 				"args": [
 				],
@@ -495,7 +494,7 @@
 			{
 				"name": "Launch Aura (Development)",
 				"request": "launch",
-				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealGame.exe",
+				"program": "C:\\Users\\razor\\Unreal\\GameplayAbilitySystem_Aura\\Binaries\\Win64\\UnrealGame.exe",
 				"preLaunchTask": "Aura Win64 Development Build",
 				"args": [
 				],
@@ -511,7 +510,7 @@
 			{
 				"name": "Launch Aura (Test)",
 				"request": "launch",
-				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+				"program": "C:\\Users\\razor\\Unreal\\GameplayAbilitySystem_Aura\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 				"preLaunchTask": "Aura Win64 Test Build",
 				"args": [
 				],
@@ -527,7 +526,7 @@
 			{
 				"name": "Launch Aura (Shipping)",
 				"request": "launch",
-				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+				"program": "C:\\Users\\razor\\Unreal\\GameplayAbilitySystem_Aura\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 				"preLaunchTask": "Aura Win64 Shipping Build",
 				"args": [
 				],
